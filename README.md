@@ -1,4 +1,6 @@
 # README
+* 環境構築参考記事  
+  https://qiita.com/shinon_uk/items/d958b27a06a5de4e58f9
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
